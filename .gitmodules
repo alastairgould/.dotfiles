@@ -1,0 +1,21 @@
+[submodule ".vim/pack/omnisharp-vim/start/omnisharp-vim"]
+	path = .vim/pack/omnisharp-vim/start/omnisharp-vim
+	url = git@github.com:OmniSharp/omnisharp-vim.git
+[submodule ".vim/pack/ctrlp.vim/start/ctrlp.vim"]
+	path = .vim/pack/ctrlp.vim/start/ctrlp.vim
+	url = git@github.com:ctrlpvim/ctrlp.vim.git
+[submodule ".vim/pack/neocomplete.vim/start/neocomplete.vim"]
+	path = .vim/pack/neocomplete.vim/start/neocomplete.vim
+	url = git@github.com:Shougo/neocomplete.vim.git
+[submodule ".vim/pack/supertab/start/supertab"]
+	path = .vim/pack/supertab/start/supertab
+	url = git@github.com:ervandew/supertab.git
+[submodule ".vim/pack/syntastic/start/syntastic"]
+	path = .vim/pack/syntastic/start/syntastic
+	url = git@github.com:vim-syntastic/syntastic.git
+[submodule ".vim/pack/ultisnips/start/ultisnips"]
+	path = .vim/pack/ultisnips/start/ultisnips
+	url = git@github.com:SirVer/ultisnips.git
+[submodule ".vim/pack/vim-dispatch/start/vim-dispatch"]
+	path = .vim/pack/vim-dispatch/start/vim-dispatch
+	url = git@github.com:tpope/vim-dispatch.git
